@@ -60,9 +60,9 @@ By bringing together videos, activities, competitions, and special moments, the 
 
 [![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Website-a8274a?style=for-the-badge&labelColor=1a0208)](https://bls-demo1.vercel.app/)
 
-## </> Developer
+## </> Developers
 
-Developed by **[Raed Mosaed](https://github.com/raedmosaed0)**
+Developed by **[Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
